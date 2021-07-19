@@ -50,4 +50,9 @@ This is quite an interesting table. It actually shows that the allocated budget 
 
 ![](Resources/budget.PNG)
 
+### Thomas High School.
+
+Unfortunately, the district alerted that Thomas High School 9 graders might have counterfeited their scores, hence the need to revaluate if removing those scores changed the overall assumptions made for the entire district analysis.
+
+
 ## Results: Analysis
