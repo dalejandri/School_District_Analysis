@@ -50,9 +50,26 @@ This is quite an interesting table. It actually shows that the allocated budget 
 
 ![](Resources/budget.PNG)
 
-### Thomas High School.
+### The Thomas High School Case.
 
 Unfortunately, the district alerted that Thomas High School 9 graders might have counterfeited their scores, hence the need to revaluate if removing those scores changed the overall assumptions made for the entire district analysis.
 
+Calculations are now based on a new number of total students:
+
+- Initial Total Students = 39,170
+- Thomas High School Students in 9th = 461
+- New Total Students = 38,709
+
+Passing Math 75%, Passing Reading 85.8%,  65.2 % Overll Passing.
+
+![](Resources/1.PNG)
+
+Passing Math 74.8 %, Passing Reading 85.7 %,  64.9 % Overall Passing.
+
+![](Resources/2.PNG)
+
+Thomas High School still ranks on the top 5 performing schools
+
+![](Resources/THS2.PNG)
 
 ## Results: Analysis
