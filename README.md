@@ -46,7 +46,7 @@ From this table we can observe that large schools are struggling to get a good p
 
 ### School performance according to budget per capita.
 
-This is quite an interesting table. It actually shows that the allocated budget per student is not directly related to school performance rather that the size of the school. Small schools, even with the lwest budget per student actually achieved the best scores and overall passing rates.
+This is quite an interesting table. It actually shows that the allocated budget per student is not directly related to school performance rather that the size of the school. Small schools, even with the lowest budget per student actually achieved the best scores and overall passing rates.
 
 ![](Resources/budget.PNG)
 
