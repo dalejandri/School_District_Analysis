@@ -27,14 +27,14 @@ Note: Changes in the updated school district analysis after reading and math sco
 ## School District Summary
 ### Find the Highest Performing Schools
 At a simple glance Cabrera High School has the highest Overall (Math and Reading) Passing Percentage.
-The Summaby below depicts the 5 top school performers.
+The Summary below depicts the 5 top school performers.
 
 ![](Resources/TOP5.PNG)
 
 ### Find the Poorest Performing Schools
 
 Rodriguez High School has the lowest performance overall (Math and Reading Passing Percentage)
-The Summaby below depicts the 5 low performing school.
+The Summary below depicts the 5 low performing school.
 
 ![](Resources/BOTTOM5.PNG)
 
